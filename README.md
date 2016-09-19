@@ -1,5 +1,7 @@
-![Repo header image](http://itsalec.co.uk/images/placid-github-header.jpg)  
-![Placid Screenshot](http://itsalec.co.uk/images/placid.1.6.10.jpg)
+# Placid - HH Fork
+We've forked Momentum HQ's awesome plugin to add support for hitting SSL endpoints under non SSL conditions
+
+---
 
 Placid is a Craft plugin which makes it easy to use REST services in your twig templates, whether thats getting a twitter feed, showing off dribbble shots or getting the weather, Placid has you covered.
 
