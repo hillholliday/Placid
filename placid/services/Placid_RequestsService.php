@@ -86,6 +86,7 @@ class Placid_RequestsService extends BaseApplicationComponent
 
     // Create a new guzzle client
     $client = new Client();
+    $client->setDefaultOption('verify',false);
 
     if($model)
     {
